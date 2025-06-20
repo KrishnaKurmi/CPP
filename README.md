@@ -25,6 +25,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 | `Palindrome.cpp`               | Checks if a string is a palindrome or not.                       |
 | `PalindromeNumber.cpp`         | Checks if a number is a palindrome or not.                       |
 | `PerfectNumber.cpp`            | Checks if a number is a Perfect number or not.                   |
+| `PrimeNumber.cpp`            | Checks if a number is a Prime number or not.                   |
 | `QuickSort.cpp`                | Sorts an array using Quick Sort algorithm.                       |
 | `RecursiveBinarySearch.cpp`    | Searches an element in an array using Binary Search (Recursive). |
 | `SimpleCalculator.cpp`         | Performs basic arithmetic operations (Calculator).               |
