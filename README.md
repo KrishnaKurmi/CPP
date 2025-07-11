@@ -15,9 +15,9 @@ This repository contains a collection of C++ programs focusing on basic to inter
 | `DuckNumber.cpp`                 | Checks whether a number is a Duck Number.        |
 | `FactorialUsingLoop.cpp`         | Calculates factorial using loops.                |
 | `FibonacciSeriesRecursion.cpp`   | Generates Fibonacci series using recursion.      |
-| `Palindrome.cpp`   |   Checks if a number is a palindrome number or not    |
-| `PalindromeNumber.cpp`   |   Checks if a number is a palindrome number or not    |
-| `PerfectNumber.cpp`   |   Checks if a number is a perfect number or not    |
+| `Palindrome.cpp`   |   Checks if a String is a Palindrome string or not    |
+| `PalindromeNumber.cpp`   |   Checks if a number is a Palindrome number or not    |
+| `PerfectNumber.cpp`   |   Checks if a number is a Perfect number or not    |
 | `SimpleCalculator.cpp`           | Performs basic arithmetic operations (calculator).|
 | `SpecialNumber.cpp`              | Checks for special types of numbers.             |
 | `StackRepresentationArray.cpp`   | Implements stack using arrays.                   |
