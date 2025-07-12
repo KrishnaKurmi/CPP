@@ -11,7 +11,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 |----------------------------------|--------------------------------------------------|
 | `ArmStrongNumber.cpp`            | Checks whether a number is an Armstrong number.  |
 | `Array.cpp`                      | Demonstrates basic array operations.             |
-| `Array.cpp`                      | Demonstrates basic array operations.             |
+| `ArrayDuplicateElements.cpp`     | Checks duplicate elements in an Array.            |
 | `BaseNumber.cpp`                 | Program for base number conversions or operations. |
 | `DuckNumber.cpp`                 | Checks whether a number is a Duck Number.        |
 | `FactorialUsingLoop.cpp`         | Calculates factorial using loops.                |
