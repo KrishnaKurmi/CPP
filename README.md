@@ -9,6 +9,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 
 | Program File                     | Description                                      |
 |----------------------------------|--------------------------------------------------|
+| `AnagramChecker.cpp`            | Checks whether a number is an Armstrong number.  |
 | `ArmStrongNumber.cpp`            | Checks whether a number is an Armstrong number.  |
 | `Array.cpp`                      | Demonstrates basic array operations.             |
 | `ArrayDuplicateElements.cpp`     | Checks duplicate elements in an Array.            |
