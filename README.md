@@ -21,6 +21,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 | `Palindrome.cpp`   |   Checks if a String is a Palindrome string or not.    |
 | `PalindromeNumber.cpp`   |   Checks if a number is a Palindrome number or not.    |
 | `PerfectNumber.cpp`   |   Checks if a number is a Perfect number or not.    |
+| `QuickSort.cpp`   |   Sorts an Array using Quick Sort Algorithm.    |
 | `SimpleCalculator.cpp`           | Performs basic arithmetic operations (calculator).|
 | `SpecialNumber.cpp`              | Checks for special types of numbers.             |
 | `StackRepresentationArray.cpp`   | Implements stack using arrays.                   |
