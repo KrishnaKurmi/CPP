@@ -23,6 +23,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 | `PalindromeNumber.cpp`   |   Checks if a number is a Palindrome number or not.    |
 | `PerfectNumber.cpp`   |   Checks if a number is a Perfect number or not.    |
 | `QuickSort.cpp`   |   Sorts an Array using Quick Sort Algorithm.    |
+| `RecursiveBinarySearch.cpp`             | Search an element of an Array using Binary Saerch (Recursive).      |
 | `SimpleCalculator.cpp`           | Performs basic arithmetic operations (calculator).|
 | `SpecialNumber.cpp`              | Checks for special types of numbers.             |
 | `StackRepresentationArray.cpp`   | Implements stack using arrays.                   |
