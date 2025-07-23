@@ -20,6 +20,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 | `FibonacciSeriesRecursion.cpp`   | Generates Fibonacci series using recursion.      |
 | `IterativeBinarySearch.cpp`      | Search an element of an Array using Binary Search (Iterative) |
 | `LinearSearch.cpp`             | Search an Element in an Array using Linear Search.      |
+| `LinearSearchRecursive.cpp`    | Search an Element in an Array using Linear Search (Recursive).      |
 | `Palindrome.cpp`   |   Checks if a String is a Palindrome string or not.    |
 | `PalindromeNumber.cpp`   |   Checks if a number is a Palindrome number or not.    |
 | `PerfectNumber.cpp`   |   Checks if a number is a Perfect number or not.    |
