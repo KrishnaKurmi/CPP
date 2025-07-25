@@ -27,6 +27,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 | `QuickSort.cpp`                | Sorts an array using Quick Sort algorithm.                       |
 | `RecursiveBinarySearch.cpp`    | Searches an element in an array using Binary Search (Recursive). |
 | `SimpleCalculator.cpp`         | Performs basic arithmetic operations (Calculator).               |
+| `SelectionSort.cpp`         | Sorting of Array Elements using Selection Sort.               |
 | `SpecialNumber.cpp`            | Checks for special types of numbers.                             |
 | `StackRepresentationArray.cpp` | Implements stack using arrays.                                   |
 | `SumOfNaturalNumber.cpp`       | Calculates sum of natural numbers using loops.                   |
