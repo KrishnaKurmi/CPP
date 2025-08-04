@@ -21,6 +21,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 | `IterativeBinarySearch.cpp`    | Searches an element in an array using Binary Search (Iterative). |
 | `LinearSearch.cpp`             | Searches an element in an array using Linear Search.             |
 | `LinearSearchRecursive.cpp`    | Searches an element in an array using Linear Search (Recursive). |
+| `MergeSort.cpp`    | Program to sort elements using Merge Sort Algorithm. |
 | `Palindrome.cpp`               | Checks if a string is a palindrome or not.                       |
 | `PalindromeNumber.cpp`         | Checks if a number is a palindrome or not.                       |
 | `PerfectNumber.cpp`            | Checks if a number is a Perfect number or not.                   |
