@@ -19,7 +19,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 | Positive, Negative, or Zero Checker | ⬜ |
 | Sum of First N Natural Numbers | ✅ |
 | Factorial of a Number (Loop & Recursion) | ✅ |
-| Fibonacci Series (Loop & Recursion) | ✅ |
+| Fibonacci Series (Loop & Recursion) | ⬜ |
 | Reverse a Number | ⬜ |
 | Palindrome Number Check | ✅ |
 | Armstrong Number Check | ✅ |
@@ -79,7 +79,7 @@ This repository contains a collection of C++ programs focusing on basic to inter
 | Program | Status |
 |---------|--------|
 | Recursive Sum of First N Numbers | ⬜ |
-| Recursive Factorial Function | ✅ |
+| Recursive Factorial Function | ⬜ |
 | Recursive Fibonacci Function | ✅ |
 | Recursive GCD | ⬜ |
 | Recursive Power Function | ⬜ |
